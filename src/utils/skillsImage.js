@@ -25,9 +25,9 @@ import postgresql from '../assets/svg/skills/postgresql.svg'
 import tailwind from '../assets/svg/skills/tailwind.svg'
 import vitejs from '../assets/svg/skills/vitejs.svg'
 import vuetifyjs from '../assets/svg/skills/vuetifyjs.svg'
-import c from '../assets/svg/skills/c.svg'
-import cplusplus from '../assets/svg/skills/cplusplus.svg'
-import csharp from '../assets/svg/skills/csharp.svg'
+import r from '../assets/svg/skills/r.png'
+import uavsensors from '../assets/svg/skills/uav.jpg'
+import lidar from '../assets/svg/skills/LiDAR.svg'
 import dart from '../assets/svg/skills/dart.svg'
 import go from '../assets/svg/skills/go.svg'
 import java from '../assets/svg/skills/java.svg'
@@ -52,7 +52,7 @@ import nginx from '../assets/svg/skills/nginx.svg'
 import numpy from '../assets/svg/skills/numpy.svg'
 import opencv from '../assets/svg/skills/opencv.svg'
 import premierepro from '../assets/svg/skills/premierepro.svg'
-import pytorch from '../assets/svg/skills/pytorch.svg'
+import sql from '../assets/svg/skills/sql.png'
 import selenium from '../assets/svg/skills/selenium.svg'
 import strapi from '../assets/svg/skills/strapi.svg'
 import tensorflow from '../assets/svg/skills/tensorflow.svg'
@@ -72,8 +72,8 @@ import picsart from '../assets/svg/skills/picsart.svg'
 import sketch from '../assets/svg/skills/sketch.svg'
 import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
-
 import canva from '../assets/svg/skills/canva.svg'
+import photogrammetry from '../assets/svg/skills/photogrammetry.svg'
 
 
 export const skillsImage = (skill) => {
@@ -133,14 +133,14 @@ export const skillsImage = (skill) => {
             return vitejs;
         case 'vuetifyjs':
             return vuetifyjs;
-        case 'c':
-            return c;
-        case 'c++':
-            return cplusplus;
-        case 'c#':
-            return csharp;
-        case 'dart':
-            return dart;
+        case 'r':
+            return r;
+        case 'uavsensors':
+            return uavsensors;
+        case 'sql':
+            return sql;
+        case 'lidar':
+            return lidar ;
         case 'go':
             return go;
         case 'java':
@@ -185,10 +185,6 @@ export const skillsImage = (skill) => {
             return numpy;
         case 'opencv':
             return opencv;
-        case 'premiere pro':
-            return premierepro;
-        case 'pytorch':
-            return pytorch;
         case 'selenium':
             return selenium;
         case 'strapi':
@@ -226,6 +222,8 @@ export const skillsImage = (skill) => {
             return wolframalpha;
         case 'canva':
             return canva;
+        case 'photogrammetry':
+            return photogrammetry ;
         default:
             break;
     }

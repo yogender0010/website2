@@ -6,7 +6,7 @@ export const educationData = [
         research_topic: "3D modelling and implementation of Digital Twins",
         startYear: '2022',
         endYear: 'Expected 2025'
-        ,imagename:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Mp6eLciAO7_oQCkBTlvxRYpf2-MN1C_T94QyJuBBb_F11PA1GNoh_JD11o7b4QFeVQ4&usqp=CAU"
+        ,imagename:"https://www.gedistatic.it/content/gnn/img/lastampa/2021/03/25/110239261-842847a4-3be7-428d-82b6-3aa5b8d0f47e.jpg"
     },
     {
         id: 2,

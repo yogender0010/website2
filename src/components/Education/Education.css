@@ -42,29 +42,29 @@
 }
 
 .educard-img {
-    border-radius: 50%;
-    width: 55px;
-    height: 55px;
+    border-radius: 10%;
+    width: 70x;
+    height: 51px;
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-shrink: 0;
+    flex-shrink: 10;
 }
 
 .educard-img > img {
-    width: 60px;
-    /* border-radius: 50%; */
+    width: 90px;
+    /* border-radius: 70%; */
 }
 
 .education-details{
-    margin-left: 0.6rem;
+    margin-left: 1.9rem;
 }
 
 .education-details > h6 {
     font-family: var(--primaryFont);
-    font-size: 0.85rem;
-    font-weight: 700;
-    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+    font-weight: 900;
+    margin-bottom: 0.6rem;
 }
 
 .education-details > h4 {

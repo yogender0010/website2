@@ -1,9 +1,10 @@
  export const skillsData = [
-    '3D city Modelling','Photogrammetry',
+    'LiDAR',
+    'Photogrammetry',
     "Python", 
     "MATLAB",
-    "R",'wordpress',
+    "R",'Wordpress',
     "SQL",
-    "UAV sensors and platforms",
+    "UAVsensors",
     'Blender',"Numpy",
 ]
