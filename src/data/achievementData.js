@@ -24,7 +24,7 @@ export const achievementData = {
             details : 'Awarded with travel grant of 1000 Euros to attend Advances in Environmental Monitoring with UAS International Workshop by HARMONIOUS COST ACTION ',
             date : 'March, 2022',
             field : 'Debrecen, Hungary',
-            image : 'https://scontent.fcbr1-1.fna.fbcdn.net/v/t39.30808-6/301155927_465908438882371_8052939088330922596_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=5sYH1AtobggAX9Gc-lJ&_nc_ht=scontent.fcbr1-1.fna&oh=00_AfApvJDOJWXq7zy79EBGTEuabLn0J4FJv_24c5Hrxie_wg&oe=65E1768F'
+            image : 'https://i.ibb.co/nCSd9s6/301155927-465908438882371-8052939088330922596-n.jpg'
         },
         {
             id : 4,

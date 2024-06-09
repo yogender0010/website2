@@ -1,6 +1,14 @@
 export const blogData = [
     {
         id: 1,
+        title: 'Urban Echoes: Exploring the Dynamic Realities of Cities through Digital Twins',
+        description: ' Lands Journal, 2024, 13(5), 635',
+        date: 'June, 2024',
+        image: 'https://www.mdpi.com/land/land-13-00635/article_deploy/html/images/land-13-00635-g001-550.jpg',
+        url: 'https://www.mdpi.com/2073-445X/13/5/635/'
+    },
+    {
+        id: 2,
         title: 'Hybrid Adjustment of UAS-based LiDAR and Image Data',
         description: ' ISPRS GeoSpatial Week, Cairo, Egypt',
         date: 'December, 2023',
@@ -8,7 +16,7 @@ export const blogData = [
         url: 'https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/633/2023/'
     },
     {
-        id: 2,
+        id: 3,
         title: 'Integration of iPhone LiDAR with Quadcopter and fixed-wing UAV Photogrammetry for the Forestry Applications',
         description: '2nd International GEOBENCH Workshop, Krakow, Poland',
         date: 'October, 2023',
@@ -16,7 +24,7 @@ export const blogData = [
         url: 'https://isprs-archives.copernicus.org/articles/XLVIII-1-W3-2023/213/2023/'
     },
     {
-        id: 3,
+        id: 4,
         title: 'Deforestation analysis using Random Forest and interactive supervised classification approach',
         description: '11th IGRSM International Conference and Exhibition on Geospatial & Remote Sensing 2022, Malaysia',
         date: 'March, 2022',
@@ -24,7 +32,7 @@ export const blogData = [
         url: 'https://iopscience.iop.org/article/10.1088/1755-1315/1064/1/012028g'
     },
     {
-        id: 4,
+        id: 5,
         title: 'Effect of Search Methods on Feature Selection with Hyperspectral Data',
         description: 'IEEE International Symposium on Geoscience and Remote Sensing (IGARSS 2021), Brussels, Belgium',
         date: 'July, 2021',
@@ -32,7 +40,7 @@ export const blogData = [
         url: 'https://ieeexplore.ieee.org/document/9553790/',
     },
     {
-        id: 5,
+        id: 6,
         title: 'Deep neural network-based predictive modeling of road accidents',
         description: 'Journal of Neural Computing and Applications ',
         date: 'January, 2020',
@@ -40,7 +48,7 @@ export const blogData = [
         url: 'https://link.springer.com/article/10.1007/s00521-019-04695-8',
     },
     {
-        id: 6,
+        id: 7,
         title: 'Role of Ground Control Points (GCPs) in Integration of Terrestrial Laser Scanner (TLS) and Closerange Photogrammetry (CRP)',
         description: 'Book chapter part of the Lecture Notes in Civil Engineering book series (LNCE,volume 33) ',
         date: 'June, 2020',
@@ -48,7 +56,7 @@ export const blogData = [
         url: 'https://link.springer.com/chapter/10.1007/978-981-13-7067-0_42',
     },
     {
-        id: 7,
+        id: 8,
         title: 'A semi-automatic approach for roof-top extraction and classification from airborne LiDAR',
         description: 'Seventh International Conference on Remote Sensing and Geoinformation of the Environment (RSCy2019) ',
         date: 'March, 2019',
@@ -56,7 +64,7 @@ export const blogData = [
         url: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11174/2532044/A-semi-automatic-approach-for-roof-top-extraction-and-classification/10.1117/12.2532044.short',
     },
     {
-        id: 8,
+        id: 9,
         title: 'Comparative Analysis of SfM Based CRP and TLS for 3D Modelling of Various Types of Surfaces',
         description: '38th Asian Conference on Remote Sensing (ACRS 2017), New Delhi, India ',
         date: 'October, 2017',
