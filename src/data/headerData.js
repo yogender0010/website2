@@ -4,6 +4,6 @@ export const headerData = {
     name: 'Yogender Yadav',
     title: "Ph.D. Researcher in Urban and Regional Development",
     desciption:"Pioneering the application of Digital Twins to catalyze transformative regional development",
-    image: 'https://scontent.fcbr1-1.fna.fbcdn.net/v/t31.18172-8/22426636_858034847703827_2406922773537555839_o.jpg?_nc_cat=111&ccb=1-7&_nc_sid=be3454&_nc_ohc=eG0pSs223PAAX9bO5GG&_nc_ht=scontent.fcbr1-1.fna&oh=00_AfDeZjxO2NvQU7o0PNMuotH0EsuVgbih-cXyk3C1Mm1LFQ&oe=66034331',
+    image: 'https://lh3.googleusercontent.com/pw/AP1GczNz-OqLB_XYmLKZARz3xXCGMAPw_lnRmG4Bl7rF30IK502V_HTpKXDMnfVVeS9l-jpPwQRxxPsy7f-F0FJ1CqDBCu9PlV9-w6U3yh6J_y6YeKYVVRVbwy-pLKOTF6ylqnnYP5UMzRwr_UddIvYBptI7xMNriawt72p2_tqKDRfcpb7Rujxzrr7OERJ1JZJXh3eG-dd41RJHSbhvrUG77we_uHePf6IicA1x-mXZP3ozxxeSq1MoNnU-rCNdwFIWxS_WS8Nqys_G0D3Fc8h5Wor08FcLu-dKxB_tkYhlXEiCw0IUZ42tAeZERqISLzmIToqKb4fcgZThrEUSsOjdCQVq_w2IeQK8kjbdsA9_t3rO84AVtZWEBKelISeqpWs21XYwe9snJygV-Fx7luJtpXISy-LMbgym3l1yw3yLqJFoHn1Bj_yYY0f_6yDzc53hcK88qzi4pNBMXe0oJ8puPEH6UPiG0UAx9EFvIjaeIOOlrIUHaQXwB4TnFNy9oaBH6rZ96GsXi4hwvrM8p46mUHRSlb5VjhmjQgRXys-dX_CALJGuigjpsogdsE4JpK8ANDBlLJ5QwKStYPtbIQLDf_RmudD-U77rOB8-4VpxBUhQtchi8Kcm2eJfSXPp-f1YK2EAV9k7-_kmdKzxYDTdAYAUnhyWnPcuhQEGUFhZqBG3wLAjEE3qDPXHOrvFoTAZRKhL-D9fWfJQ1aDuxADa6LGyoV9qdCA_6S6SbgYWql37NW8yZcIe1iQlc6zjVKT8j6t67SlYZgnIkqeS5DSKz4JwWGT7jCkakeFKcn-0TShqgHdfzdnEBkgbO--_JDX7dJDFQ7go2H_1vfcusLYxVeEwF-Ucoe6gTqrWDrGiqSF5AqFbBslWmF9QuB2geb63FCTgGVMNc4OjeTV4Q2f08WJ1gOHg=w769-h555-s-no-gm?authuser=0',
     resumePdf: resume
 }
