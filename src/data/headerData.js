@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/Yogender_CV_Jan_2024.pdf'
+import resume from '../assets/pdf/resume.pdf'
 
 export const headerData = {
     name: 'Yogender Yadav',
