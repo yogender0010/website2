@@ -3,7 +3,7 @@ export const educationData = [
         id: 1,
         institution: 'Politecnico di Torino, Italy',
         course: "Ph.D. in Urban and Regional Development",
-        research_topic: "3D modelling and implementation of Digital Twins",
+        research_topic: "3D modelling and development of Energy Digital Twins for sustainable urban built up environments",
         startYear: '2022',
         endYear: 'Expected 2025'
         ,imagename:"https://www.gedistatic.it/content/gnn/img/lastampa/2021/03/25/110239261-842847a4-3be7-428d-82b6-3aa5b8d0f47e.jpg"
