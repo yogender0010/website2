@@ -3,8 +3,8 @@ export const experienceData = [
         company: 'Spatial Data Lab (SDL), Harvard University',
         jobtitle: 'Research Internship',
         startYear: 'December 2024',
-        endYear: 'Present',
-        imagename:"https://sdl.gis.harvard.edu/sites/projects.iq.harvard.edu/files/styles/os_news_full/public/chinadatalab/files/internship.png?m=1712867987&itok=MwCZ6ji5"
+        endYear: 'July 2025',
+        imagename:"https://yongzesong.com/wp-content/uploads/2024/10/harvard-sdl.png"
     },
     {
         company: 'IEEE Geoscience and Remote Sensing Society (GRSS)',
