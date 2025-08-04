@@ -4,7 +4,7 @@ export const experienceData = [
         jobtitle: 'Research Internship',
         startYear: 'December 2024',
         endYear: 'July 2025',
-        imagename:"https://sdl.gis.harvard.edu/sites/g/files/omnuum8906/files/chinadatalab/files/internship.png"
+        imagename:"https://blog.logomyway.com/wp-content/uploads/2020/11/The-Harvard-Emblem.jpg"
     },
     {
         company: 'IEEE Geoscience and Remote Sensing Society (GRSS)',
