@@ -8,7 +8,7 @@ export const achievementData = {
             details : 'Travel grant award by SPIE to present research at SPIE remote sensing conference, 15-18 September 2025, Madrid, Spain',
             date : 'July, 2025',
             field : 'Madrid, Spain',
-            image: 'https://www.showsbee.com/newmaker/www/u/2022/20229/cfr_img/SPIE-Remote-Sensing.png',
+            image: 'https://www.tradefairdates.com/logos/spie_sensors_imaging_logo_13423.png',
         },
         {
             id : 2,
